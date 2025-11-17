@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.bgcpr{
+    background-color: #0c8cd9;
+    color: white;
+}
+
+.icon-rotate:hover {
+    transform: rotate(360deg);
+}

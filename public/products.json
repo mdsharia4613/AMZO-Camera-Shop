@@ -1,0 +1,613 @@
+[
+    {
+        "id": 1,
+        "category": "Box Camera",
+        "title": "ProVision Box Security Camera",
+        "price": 139,
+        "image": "/image/box/box1.png",
+        "rating": 4.5,
+        "brand": "SecureTech",
+        "sku": "ST-BOX-001",
+        "color": [
+            "#000000",
+            "#4A4A4A"
+        ],
+        "description": [
+            "High-resolution capture for enhanced detail",
+            "Interchangeable lens support",
+            "Designed for professional surveillance",
+            "Low-noise performance in dim environments"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Box Camera",
+        "title": "NightVision Pro Box Cam",
+        "price": 159,
+        "image": "/image/box/box2.png",
+        "rating": 4.8,
+        "brand": "VisionPro",
+        "sku": "VP-BOX-002",
+        "color": [
+            "#1A1A1A"
+        ],
+        "description": [
+            "Superior night-vision performance",
+            "Infrared enhancement for dark areas",
+            "Ideal for offices, banks, and factories",
+            "Wide dynamic range for true color"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Box Camera",
+        "title": "SharpEdge Box Series",
+        "price": 120,
+        "image": "/image/box/box3.png",
+        "rating": 4.1,
+        "brand": "Camzo",
+        "sku": "CZ-BOX-003",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "HD optical clarity with fast sensor",
+            "Durable metal build for long use",
+            "Minimal noise in daylight footage",
+            "Perfect for retail and indoor security"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Box Camera",
+        "title": "SecureMax Indoor Box Cam",
+        "price": 99,
+        "image": "/image/box/box4.png",
+        "rating": 4.3,
+        "brand": "SecureMax",
+        "sku": "SM-BOX-004",
+        "color": [
+            "#E5E5E5"
+        ],
+        "description": [
+            "Indoor optimized professional box camera",
+            "Enhanced motion detection support",
+            "Advanced power saving technology",
+            "Smooth frame output for real-time viewing"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Floodlights Camera",
+        "title": "BrightGuard Floodlight Cam",
+        "price": 175,
+        "image": "/image/flood/flood1.png",
+        "rating": 4.7,
+        "brand": "LightGuard",
+        "sku": "LG-FL-001",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Integrated floodlight with HD camera",
+            "Motion-triggered lighting system",
+            "AI-based movement detection",
+            "Perfect for garages and outdoor gates"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Floodlights Camera",
+        "title": "SmartBeam 360 Flood Cam",
+        "price": 210,
+        "image": "/image/p_1.jpg",
+        "rating": 4.9,
+        "brand": "Camzo",
+        "sku": "CZ-FL-002",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Full-angle flood beam support",
+            "Long-range night illumination",
+            "Two-way audio built-in",
+            "WiFi enabled smart surveillance"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Floodlights Camera",
+        "title": "MegaLite Outdoor Flood Cam",
+        "price": 199,
+        "image": "/image/flood/flood3.png",
+        "rating": 4.4,
+        "brand": "LightZone",
+        "sku": "LZ-FL-003",
+        "color": [
+            "#4A4A4A"
+        ],
+        "description": [
+            "High-intensity flood beam",
+            "Smart companion app monitoring",
+            "High-resolution output",
+            "Great for large homes & yards"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Floodlights Camera",
+        "title": "UltraSafe Flood Vision",
+        "price": 189,
+        "image": "/image/flood/flood4.png",
+        "rating": 4.2,
+        "brand": "SecureMax",
+        "sku": "SM-FL-004",
+        "color": [
+            "#FFFFFF",
+            "#000000"
+        ],
+        "description": [
+            "Dual flood beam heads",
+            "Auto-tracking movement detection",
+            "Strong water-resistant casing",
+            "Supports cloud recording"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Infrared CCTV",
+        "title": "NightEye IR Pro Camera",
+        "price": 89,
+        "image": "/image/infrared/ir1.png",
+        "rating": 4.6,
+        "brand": "NightEye",
+        "sku": "NE-IR-001",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Full-range infrared capture",
+            "Sharp night recording",
+            "Low power consumption",
+            "Rain-resistant outdoor build"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Infrared CCTV",
+        "title": "DarkVision IR Elite",
+        "price": 110,
+        "image": "/image/infrared/ir2.png",
+        "rating": 4.8,
+        "brand": "VisionPro",
+        "sku": "VP-IR-002",
+        "color": [
+            "#1A1A1A"
+        ],
+        "description": [
+            "Ultra-clear night output",
+            "Auto-switch IR mode",
+            "Great for warehouses",
+            "Supports remote monitoring"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Infrared CCTV",
+        "title": "ShadowGuard IR",
+        "price": 95,
+        "image": "/image/infrared/ir3.png",
+        "rating": 4.3,
+        "brand": "Camzo",
+        "sku": "CZ-IR-003",
+        "color": [
+            "#2E2E2E"
+        ],
+        "description": [
+            "High-distance IR rays",
+            "Anti-glare sensor",
+            "Outdoor & indoor compatible",
+            "Secure metal-clad body"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Infrared CCTV",
+        "title": "UltraIR Deep Vision",
+        "price": 129,
+        "image": "/image/infrared/ir4.png",
+        "rating": 4.6,
+        "brand": "SecureMax",
+        "sku": "SM-IR-004",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Crystal IR night clarity",
+            "Real-time motion alarm",
+            "Remote smartphone access",
+            "Built for industrial use"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Outdoor",
+        "title": "WeatherShield Outdoor Cam",
+        "price": 99,
+        "image": "/image/outdoor/out1.png",
+        "rating": 4.7,
+        "brand": "SafeHome",
+        "sku": "SH-OD-001",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Full weather-resistant build",
+            "Clear wide-angle lens",
+            "Strong bracket mounting",
+            "Perfect for house entrances"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Outdoor",
+        "title": "DuraCam Outdoor Vision",
+        "price": 119,
+        "image": "/image/outdoor/out2.png",
+        "rating": 4.4,
+        "brand": "Camzo",
+        "sku": "CZ-OD-002",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Long-range surveillance",
+            "Enhanced daylight color",
+            "Smart push-notification alerts",
+            "Frost-resistant technology"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Outdoor",
+        "title": "PowerEye Outdoor Pro",
+        "price": 140,
+        "image": "/image/outdoor/out3.png",
+        "rating": 4.8,
+        "brand": "PowerVision",
+        "sku": "PV-OD-003",
+        "color": [
+            "#4A4A4A"
+        ],
+        "description": [
+            "4K outdoor recording",
+            "IP67 waterproof certification",
+            "Real-time mobile monitoring",
+            "Great for boundary walls"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Outdoor",
+        "title": "UltraShield Outdoor Cam",
+        "price": 130,
+        "image": "/image/outdoor/out4.png",
+        "rating": 4.5,
+        "brand": "SecureMax",
+        "sku": "SM-OD-004",
+        "color": [
+            "#E5E5E5"
+        ],
+        "description": [
+            "Powerful zoom optimization",
+            "Sharp sensor stability",
+            "Strong dust-proof body",
+            "Flexible mounting directions"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "PTZ Camera",
+        "title": "AutoTrack PTZ 360 Cam",
+        "price": 185,
+        "image": "/image/p_2.jpg",
+        "rating": 4.9,
+        "brand": "Camzo",
+        "sku": "CZ-PTZ-001",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Full 360° rotation support",
+            "Auto-tracking moving objects",
+            "High-speed zoom capability",
+            "Great for large home security"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "PTZ Camera",
+        "title": "ZoomMaster PTZ Series",
+        "price": 210,
+        "image": "/image/ptz/ptz2.png",
+        "rating": 4.8,
+        "brand": "ViewPro",
+        "sku": "VP-PTZ-002",
+        "color": [
+            "#4A4A4A"
+        ],
+        "description": [
+            "Powerful optical zoom",
+            "AI-motion detection",
+            "Smooth rotation motor",
+            "Best for parking lots & malls"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "PTZ Camera",
+        "title": "SkyTrack PTZ 4K Cam",
+        "price": 240,
+        "image": "/image/ptz/ptz3.png",
+        "rating": 4.7,
+        "brand": "SkyGuard",
+        "sku": "SG-PTZ-003",
+        "color": [
+            "#1A1A1A"
+        ],
+        "description": [
+            "4K ultra-clear PTZ footage",
+            "360° endless rotation",
+            "High-precision image sensors",
+            "Outdoor & indoor compatible"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "PTZ Camera",
+        "title": "ProSecure PTZ Motion Cam",
+        "price": 199,
+        "image": "/image/ptz/ptz4.png",
+        "rating": 4.5,
+        "brand": "SecureMax",
+        "sku": "SM-PTZ-004",
+        "color": [
+            "#FFFFFF",
+            "#000000"
+        ],
+        "description": [
+            "Great for wide-angle tracking",
+            "Smooth pan-tilt experience",
+            "Stable lens for long-range viewing",
+            "Strong outdoor housing"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Solar Camera",
+        "title": "EcoCharge Solar Cam",
+        "price": 89,
+        "image": "/image/solar/solar1.png",
+        "rating": 4.3,
+        "brand": "Camzo",
+        "sku": "CZ-SL-001",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Fully solar-powered active recording",
+            "Wireless installation",
+            "Ideal for outdoor gates",
+            "Eco-friendly camera solution"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Solar Camera",
+        "title": "SunGuard Smart Solar Cam",
+        "price": 110,
+        "image": "/image/solar/solar2.png",
+        "rating": 4.5,
+        "brand": "SunVision",
+        "sku": "SV-SL-002",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Auto solar charging system",
+            "Cloud backup support",
+            "Lightweight outdoor design",
+            "Strong wireless signal coverage"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Solar Camera",
+        "title": "SolarEye HD Wireless Cam",
+        "price": 102,
+        "image": "/image/solar/solar3.png",
+        "rating": 4.2,
+        "brand": "LightGuard",
+        "sku": "LG-SL-003",
+        "color": [
+            "#4A4A4A"
+        ],
+        "description": [
+            "Great battery backup",
+            "Perfect for remote areas",
+            "Supports smart alerts",
+            "Full HD clean footage"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Solar Camera",
+        "title": "UltraSolar Cam Pro",
+        "price": 125,
+        "image": "/image/solar/solar4.png",
+        "rating": 4.7,
+        "brand": "SecureMax",
+        "sku": "SM-SL-004",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "All-weather solar charging",
+            "Bright daytime clarity",
+            "Supports remote live view",
+            "Very easy installation"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Thermal Camera",
+        "title": "HeatSense Industrial Camera",
+        "price": 299,
+        "image": "/image/thermal/t1.png",
+        "rating": 4.9,
+        "brand": "ThermoGuard",
+        "sku": "TH-TM-001",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Advanced thermal heat detection",
+            "Perfect for industrial sites",
+            "Precise temperature scanning",
+            "Strong anti-overheat protection"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Thermal Camera",
+        "title": "InfraHeat Vision Pro",
+        "price": 320,
+        "image": "/image/thermal/t2.png",
+        "rating": 4.7,
+        "brand": "HeatVision",
+        "sku": "HV-TM-002",
+        "color": [
+            "#2E2E2E"
+        ],
+        "description": [
+            "High-performance thermal feed",
+            "Real-time temperature mapping",
+            "Best for factories & monitoring",
+            "Strong internal cooling system"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Thermal Camera",
+        "title": "ThermoTrack Elite",
+        "price": 350,
+        "image": "/image/thermal/t3.png",
+        "rating": 4.8,
+        "brand": "ThermoGuard",
+        "sku": "TG-TM-003",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Industrial-grade heat tracking",
+            "Great range recognition",
+            "Stable performance under harsh temperature",
+            "Accurate long-distance detection"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Thermal Camera",
+        "title": "HeatMap 4K Thermal Cam",
+        "price": 399,
+        "image": "/image/thermal/t4.png",
+        "rating": 4.9,
+        "brand": "HeatPro",
+        "sku": "HP-TM-004",
+        "color": [
+            "#1A1A1A"
+        ],
+        "description": [
+            "4K heat detection overlay",
+            "Noise-free thermal sensors",
+            "Ultra-wide thermal mapping",
+            "Used in warehouses & safety checks"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Wireless CCTV",
+        "title": "HomeSmart WiFi Camera",
+        "price": 55,
+        "image": "/image/wireless/w1.png",
+        "rating": 4.4,
+        "brand": "HomeSafe",
+        "sku": "HS-WR-001",
+        "color": [
+            "#FFFFFF"
+        ],
+        "description": [
+            "Full wireless connectivity",
+            "Two-way audio system",
+            "Great indoor coverage",
+            "Smart motion alerts"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Wireless CCTV",
+        "title": "SmartEye Dual Band Camera",
+        "price": 65,
+        "image": "/image/wireless/w2.png",
+        "rating": 4.6,
+        "brand": "SmartEye",
+        "sku": "SE-WR-002",
+        "color": [
+            "#000000"
+        ],
+        "description": [
+            "Dual-band WiFi support",
+            "Real-time live streaming",
+            "Complete room coverage",
+            "Supports cloud storage"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Wireless CCTV",
+        "title": "VisionLink Wireless Cam",
+        "price": 72,
+        "image": "/image/wireless/w3.png",
+        "rating": 4.5,
+        "brand": "VisionPro",
+        "sku": "VP-WR-003",
+        "color": [
+            "#4A4A4A"
+        ],
+        "description": [
+            "Crystal clear image output",
+            "Easy home installation",
+            "Mobile remote access",
+            "Smart home assistant support"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Wireless CCTV",
+        "title": "UltraConnect Home Cam",
+        "price": 78,
+        "image": "/image/wireless/w4.png",
+        "rating": 4.7,
+        "brand": "SecureMax",
+        "sku": "SM-WR-004",
+        "color": [
+            "#E5E5E5"
+        ],
+        "description": [
+            "Top-tier wireless stability",
+            "No-lag live monitoring",
+            "Perfect for apartments",
+            "Strong privacy encryption"
+        ]
+    }
+]
