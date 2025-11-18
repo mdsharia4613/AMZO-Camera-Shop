@@ -3,6 +3,9 @@ import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 import { HiOutlineShoppingBag } from "react-icons/hi";
 import { FaRegStar, FaStar, FaStarHalf } from "react-icons/fa6";
+import { GoArrowUpRight } from "react-icons/go";
+import Link from 'next/link';
+
 
 
 const TopRating = () => {
@@ -65,7 +68,7 @@ const TopRating = () => {
                             {/* Price + Cart */}
                             <div className="flex justify-between items-center mt-3">
                                 <p className="text-lg font-bold text-blue-600">{item.price} ৳</p>
-                                
+                                <Link href="/shop" className='bgcpr p-1 rounded-md'><GoArrowUpRight fontSize={24} /></Link>
                             </div>
                         </div>
                     )
