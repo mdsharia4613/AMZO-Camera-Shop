@@ -68,7 +68,7 @@ const TopRating = () => {
                             {/* Price + Cart */}
                             <div className="flex justify-between items-center mt-3">
                                 <p className="text-lg font-bold text-blue-600">{item.price} ৳</p>
-                                <Link href="/shop" className='bgcpr p-1 rounded-md'><GoArrowUpRight fontSize={24} /></Link>
+                                <Link href={`/products/${item.id}`} className='bgcpr p-1 rounded-md'><GoArrowUpRight fontSize={24} /></Link>
                             </div>
                         </div>
                     )
